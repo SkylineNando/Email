@@ -1,5 +1,3 @@
-Aqui está o conteúdo formatado para um repositório no GitHub. Inclui a documentação, código e instruções de uso. Este conteúdo pode ser usado no `README.md` do repositório.
-
 ---
 
 # Email Suggestion Input with JavaScript
